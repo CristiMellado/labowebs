@@ -111,8 +111,7 @@ git log
    git log --oneline --graph --decorate
    ```
 
-   ![image-20241114100023002](./proyecto labowebs.assets/image-20241114100023002.png)
-
+   <img src="./proyecto labowebs.assets/image-20241114100023002.png" alt="image-20241114100023002" style="zoom:80%;" />
 
 
 # Trabajo en Remoto
@@ -141,7 +140,7 @@ git push -u origin --all
 
 <img src="./proyecto labowebs.assets/image-20241114183045510.png" alt="image-20241114183045510"  />
 
-![image-20241114183228787](./proyecto labowebs.assets/image-20241114183228787.png)
+<img src="./proyecto labowebs.assets/image-20241114183228787.png" alt="image-20241114183228787" style="zoom: 80%;" />
 
 <img src="./proyecto labowebs.assets/image-20241114183528207.png" alt="image-20241114183528207" style="zoom: 80%;" />
 
@@ -188,15 +187,15 @@ git push -u origin --all
 
 7. Crea una rama `feature-mapa.` Incluye este código en el archivo `contacto.html` . Añade los cambios. Realiza un commit. Sube los cambios al remoto. Muestra en el remoto los cambios del archivo `contacto.html` en la rama `feature-mapa`.
 
-   ![image-20241114192802265](./proyecto labowebs.assets/image-20241114192802265.png)
+<img src="./proyecto labowebs.assets/image-20241114192802265.png" alt="image-20241114192802265" style="zoom: 80%;" />
 
 <img src="./proyecto labowebs.assets/image-20241114193047293.png" alt="image-20241114193047293" style="zoom:80%;" />
 
-![image-20241114193128180](./proyecto labowebs.assets/image-20241114193128180.png)
+<img src="./proyecto labowebs.assets/image-20241114193128180.png" alt="image-20241114193128180" style="zoom: 80%;" />
 
 <img src="./proyecto labowebs.assets/image-20241114193223883.png" alt="image-20241114193223883" style="zoom:80%;" />
 
-![image-20241114193452982](./proyecto labowebs.assets/image-20241114193452982.png)
+<img src="./proyecto labowebs.assets/image-20241114193452982.png" alt="image-20241114193452982" style="zoom: 80%;" />
 
 8. En GitHub, en la rama `main` , fusiona la rama `feature-mapa.` Baja los cambios del remoto a local. Deja los dos repositorios sincronizados.
 
@@ -248,7 +247,7 @@ git pull origin main
 
    
    
-   ![image-20241115085830847](./proyecto labowebs.assets/image-20241115085830847.png)
+   <img src="./proyecto labowebs.assets/image-20241115085830847.png" alt="image-20241115085830847" style="zoom: 80%;" />
 
 <img src="./proyecto labowebs.assets/image-20241115090620121.png" alt="image-20241115090620121" style="zoom:80%;" />
 
@@ -262,7 +261,7 @@ git pull origin main
 
 <img src="./proyecto labowebs.assets/image-20241115092357631.png" alt="image-20241115092357631" style="zoom:80%;" />
 
-![image-20241115092449073](./proyecto labowebs.assets/image-20241115092449073.png)
+<img src="./proyecto labowebs.assets/image-20241115092449073.png" alt="image-20241115092449073" style="zoom:80%;" />
 
 <img src="./proyecto labowebs.assets/image-20241115092716164.png" alt="image-20241115092716164" style="zoom:80%;" />
 
@@ -282,12 +281,11 @@ git commit -m "añadiendo documentación"
 
 <img src="./proyecto labowebs.assets/image-20241115103411383.png" alt="image-20241115103411383" style="zoom:80%;" />
 
-![Captura de pantalla 2024-11-15 110046](./proyecto labowebs.assets/Captura de pantalla 2024-11-15 110046.png)
+<img src="./proyecto labowebs.assets/Captura de pantalla 2024-11-15 110046.png" alt="Captura de pantalla 2024-11-15 110046" style="zoom:80%;" />
 
 
+<img src="./proyecto labowebs.assets/Captura de pantalla 2024-11-15 110105.png" alt="Captura de pantalla 2024-11-15 110105" style="zoom:80%;" />
 
-![Captura de pantalla 2024-11-15 110105](./proyecto labowebs.assets/Captura de pantalla 2024-11-15 110105.png)
+<img src="./proyecto labowebs.assets/Captura de pantalla 2024-11-15 110113.png" alt="Captura de pantalla 2024-11-15 110113" style="zoom:80%;" />
 
-![Captura de pantalla 2024-11-15 110113](./proyecto labowebs.assets/Captura de pantalla 2024-11-15 110113.png)
-
-![Captura de pantalla 2024-11-15 110119](./proyecto labowebs.assets/Captura de pantalla 2024-11-15 110119.png)
+<img src="./proyecto labowebs.assets/Captura de pantalla 2024-11-15 110119.png" alt="Captura de pantalla 2024-11-15 110119" style="zoom:80%;" />
