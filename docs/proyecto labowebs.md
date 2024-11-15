@@ -1,7 +1,5 @@
----
-Autor: Cristina Mellado
+**Autor: Cristina Mellado**
 Proyecto Labowebs.
----
 
 # Ejercicio de Git - Proyecto Labowebs.
 
@@ -268,6 +266,15 @@ git pull origin main
 
 <img src="./proyecto labowebs.assets/image-20241115092716164.png" alt="image-20241115092716164" style="zoom:80%;" />
 
-# Enlace GitHub
 
-https://github.com/CristiMellado/labowebs
+
+# Subida de documentación
+
+En la carpeta del proyecto labowebs añade una carpeta `docs` . Copia en esa carpeta el fichero markdown y la carpeta con las imágenes. Incluye también el pdf . Añade todo al repositorio. Súbelo al remoto.
+
+```bash
+mdkir docs 
+```
+
+![image-20241115101746052](./proyecto labowebs.assets/image-20241115101746052.png)
+
