@@ -274,7 +274,19 @@ En la carpeta del proyecto labowebs añade una carpeta `docs` . Copia en esa car
 
 ```bash
 mdkir docs 
+git add .
+git commit -m "añadiendo documentación"
 ```
 
-![image-20241115101746052](./proyecto labowebs.assets/image-20241115101746052.png)
+<img src="./proyecto labowebs.assets/image-20241115101746052.png" alt="image-20241115101746052" style="zoom:80%;" />
+
+<img src="./proyecto labowebs.assets/image-20241115103411383.png" alt="image-20241115103411383" style="zoom:80%;" />
+
+![image-20241115103459710](./proyecto labowebs.assets/image-20241115103459710.png)
+
+![image-20241115104010734](./proyecto labowebs.assets/image-20241115104010734.png)
+
+![image-20241115103641808](./proyecto labowebs.assets/image-20241115103641808.png)
+
+![image-20241115103915230](./proyecto labowebs.assets/image-20241115103915230.png)
 
