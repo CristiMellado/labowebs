@@ -282,10 +282,12 @@ git commit -m "añadiendo documentación"
 
 <img src="./proyecto labowebs.assets/image-20241115103411383.png" alt="image-20241115103411383" style="zoom:80%;" />
 
-![image-20241115103459710](./proyecto labowebs.assets/image-20241115103459710.png)
+![Captura de pantalla 2024-11-15 110046](./proyecto labowebs.assets/Captura de pantalla 2024-11-15 110046.png)
 
-![image-20241115104010734](./proyecto labowebs.assets/image-20241115104010734.png)
 
-![image-20241115103641808](./proyecto labowebs.assets/image-20241115103641808.png)
 
-![image-20241115103915230](./proyecto labowebs.assets/image-20241115103915230.png)
+![Captura de pantalla 2024-11-15 110105](./proyecto labowebs.assets/Captura de pantalla 2024-11-15 110105.png)
+
+![Captura de pantalla 2024-11-15 110113](./proyecto labowebs.assets/Captura de pantalla 2024-11-15 110113.png)
+
+![Captura de pantalla 2024-11-15 110119](./proyecto labowebs.assets/Captura de pantalla 2024-11-15 110119.png)
