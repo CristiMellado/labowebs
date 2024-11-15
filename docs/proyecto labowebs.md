@@ -289,4 +289,3 @@ git commit -m "añadiendo documentación"
 ![image-20241115103641808](./proyecto labowebs.assets/image-20241115103641808.png)
 
 ![image-20241115103915230](./proyecto labowebs.assets/image-20241115103915230.png)
-
