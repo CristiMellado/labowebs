@@ -1,1 +1,1 @@
-[Enlace Documentación](/CristiMellado/labowebs/blob/main/docs/proyecto labowebs.pdf)
+[Enlace Documentación](/CristiMellado/labowebs/blob/main/docs/proyectolabowebs.pdf)
